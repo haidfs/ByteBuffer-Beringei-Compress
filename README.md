@@ -1,5 +1,9 @@
-¸Ã¹¤³ÌÖ÷ÒªÄ¿µÄÊÇÊ¹ÓÃByteBufferÊµÏÖBeringeiÑ¹ËõËã·¨¡£
-BeringeiÏîÄ¿µØÖ·£ºhttps://github.com/facebookarchive/beringei
-ÂÛÎÄµØÖ·£ºhttp://www.vldb.org/pvldb/vol8/p1816-teller.pdf
-¼òµ¥µÄ±à³ÌË¼Â·£º https://blog.csdn.net/weixin_42348333/article/details/86104419
-Beringei±àÒëÖĞÓöµ½µÄÎÊÌâÒÔ¼°½â¾ö°ì·¨£ºhttps://blog.csdn.net/weixin_42348333/column/info/38048
+è¯¥å·¥ç¨‹ä¸»è¦ç›®çš„æ˜¯ä½¿ç”¨ByteBufferå®ç°Beringeiå‹ç¼©ç®—æ³•ã€‚
+
+Beringeié¡¹ç›®åœ°å€ï¼šhttps://github.com/facebookarchive/beringei
+
+è®ºæ–‡åœ°å€ï¼šhttp://www.vldb.org/pvldb/vol8/p1816-teller.pdf
+
+ç®€å•çš„ç¼–ç¨‹æ€è·¯ï¼š https://blog.csdn.net/weixin_42348333/article/details/86104419
+
+Beringeiç¼–è¯‘ä¸­é‡åˆ°çš„é—®é¢˜ä»¥åŠè§£å†³åŠæ³•ï¼šhttps://blog.csdn.net/weixin_42348333/column/info/38048
