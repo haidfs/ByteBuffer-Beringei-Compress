@@ -5,10 +5,6 @@
     <groupId>compression.beringei</groupId>
     <artifactId>bytebuffer</artifactId>
     <version>0.1.0</version>
-    <name>Beringei time series compression in Java ByteBuffer</name>
-    <description>Implements the time series compression methods as described in the Facebook's Gorilla
-        paper</description>
-    <url>https://github.com/burmanm/gorilla-tsc</url>
 
     <properties>
         <java.version>1.8</java.version>
